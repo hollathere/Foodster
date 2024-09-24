@@ -1,0 +1,1920 @@
+{
+  "products": [
+    {
+      "id": 205082351,
+      "name": "Hyderabadi Biryani Combo Serves Two (400 gms)",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Darron Miloscia",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2017",
+          "reviewTitle": "Thinking to buy another one!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Andres Papp",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Portugal",
+          "rating": 4,
+          "date": "March 3, 2020",
+          "reviewTitle": "Very good boots!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Twana Davinroy",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Valsad",
+          "rating": 3,
+          "date": "March 3, 2023",
+          "reviewTitle": "It can be better!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "₹115.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179002,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/e8b/9b7ac6832c4df72ef2b1393647e92e8b.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/e8b/9b7ac6832c4df72ef2b1393647e92e8b.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205107270,
+      "name": "Dum Biryani",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Gabriele Krein",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "France",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ashlie Amon",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "France",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "Not perfect but very good!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Rosenda Kukucka",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "I will buy 10 of these!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "₹88.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132236489,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/020/39398c96abed08826cf3122785657020.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/020/39398c96abed08826cf3122785657020.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 204349751,
+      "name": "Premium Dum Biryani",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "India",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best food in the whole world!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Upleta",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "This food!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Milan Dragić",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Serbia",
+          "rating": 1,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "₹90.00"
+        }
+      },
+      "brandName": "Reebok",
+      "productCode": 126663939,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/65c/60072ed5b7d3f92ceaae6d6144c7b65c.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/65c/60072ed5b7d3f92ceaae6d6144c7b65c.jpg"
+      ]
+    },
+    {
+      "id": 204525730,
+      "name": "Delicious Thepla",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Darwin Jeffres",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Wadhwan",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "I expected more from Nike",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Armando Robertus",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Surendranagar",
+          "rating": 2,
+          "date": "January 2, 2023",
+          "reviewTitle": "I don't like these food",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Rajkot",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 210,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "₹130.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493550,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/0f6/9a57675388a189614f0a97404ee000f6.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/0f6/9a57675388a189614f0a97404ee000f6.jpg"
+      ]
+    },
+    {
+      "id": 204913684,
+      "name": "Special Punjabi Thali",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Edwin Stegura",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Pakistan",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "If threre is 0 I would give it",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Mexico",
+          "rating": 3,
+          "date": "January 1, 2023",
+          "reviewTitle": "Good shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Raj",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Upleta",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 40,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 34.5,
+          "text": "₹34.50"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/59c/a47fc5e61bb8236e30e33bdf9a41d59c.jpeg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/59c/a47fc5e61bb8236e30e33bdf9a41d59c.jpeg"
+      ]
+    },
+    {
+      "id": 204295159,
+      "name": "Punjabi Thali Delux Lunch",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Raj",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Upleta",
+          "rating": 4,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very good for males",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ronald Haisten",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Palanpur",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "Simple and very good",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Arth",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Egipt",
+          "rating": 5,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good food, good life",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 59.99,
+          "text": "₹59.99"
+        }
+      },
+      "imageUrl": "/b.zmtcdn.com/data/dish_photos/933/77fa8629066c52fb061f3fe243f02933.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/933/77fa8629066c52fb061f3fe243f02933.jpg"
+      ]
+    },
+    {
+      "id": 205116880,
+      "name": "Dal Pakwan",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Arth",
+          "userImage": "/src/assets/user profile photo 11.jpg",
+          "location": "Italy",
+          "rating": 3,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good food, good life",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Arman",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Bosnia",
+          "rating": 4,
+          "date": "February 3, 2023",
+          "reviewTitle": "Good and practical",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Heli",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Valsad",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 7,
+      "productionDate": "2013-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": "₹75.00"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/pictures/chains/4/18727244/a20217ebcea095ee7b8050863cb59270_featured_v2.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/chains/4/18727244/a20217ebcea095ee7b8050863cb59270_featured_v2.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205117227,
+      "name": "Pav Bhaji",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Heli",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Valsad",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hem",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "January 31, 2023",
+          "reviewTitle": "I like these food",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alkesh",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "This is excellent product by Puma!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 11,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "₹90.00"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/pictures/8/20695868/134d3be66eff906c503419ebeeda74e8_o2_featured_v2.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/8/20695868/134d3be66eff906c503419ebeeda74e8_o2_featured_v2.jpg"
+      ]
+    },
+    {
+      "id": 205170977,
+      "name": "Pasta",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Luka Modrić",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Croatia",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best food!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Raju",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Japan",
+          "rating": 4,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "I am very happy with this product, but it is not perfect!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Berta Ruediger",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Surendranagar",
+          "rating": 5,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 320,
+      "productionDate": "2017-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 129.99,
+          "text": "₹129.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362851,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/32c/12a2faa38e18d3e1f59898399372a32c.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/32c/12a2faa38e18d3e1f59898399372a32c.jpg"
+      ]
+    },
+    {
+      "id": 205170993,
+      "name": "Chinese Samosa",
+      "description": "Demo description",
+      "category": "shoes",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Surendranagar",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Ahmedabad",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Sooo goood food!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Surendranagar",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "The Best food In The World!!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3200,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 94.99,
+          "text": "₹94.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362839,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/db9/f0eb185c3da0014b816054479157edb9.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/db9/f0eb185c3da0014b816054479157edb9.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205171062,
+      "name": "Mirch Masala Tadka",
+      "description": "Demo description",
+      "category": "shoes",
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Benedict Pojar",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Surendranagar",
+          "rating": 3,
+          "date": "January 31, 2023",
+          "reviewTitle": "Solid food",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Henry Buller",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Surendranagar",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Soo goood food!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Egypt",
+          "rating": 1,
+          "date": "January 31, 2023",
+          "reviewTitle": "I want my money back",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3120,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 89.99,
+          "text": "₹89.99"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/541/e765e2f4a79d88f15c3c9dd2430aa541.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/541/e765e2f4a79d88f15c3c9dd2430aa541.jpg"
+      ]
+    },
+    {
+      "id": 205171114,
+      "name": "Biryani Hub",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Cristopher Sciano",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Ahmedabad",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Excellent food!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Tommie Huesing",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Very good and affordable",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bryant Garns",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "August 31, 2023",
+          "reviewTitle": "Simple and elegant",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 230,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 109.99,
+          "text": "₹109.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362845,
+      "imageUrl": "b.zmtcdn.com/data/pictures/7/19757817/519246534e5c67647b31b5c5f29794d8_featured_v2.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/7/19757817/519246534e5c67647b31b5c5f29794d8_featured_v2.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205171544,
+      "name": "Hyderabadi Biryani",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Jerald Rosemond",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "Soooo fantastic!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Elwood Winstone",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "These food are sooo goood!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Claude Soots",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Palanpur",
+          "rating": 4,
+          "date": "October 31, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 139.99,
+          "text": "₹139.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362844,
+      "imageUrl": "b.zmtcdn.com/data/pictures/chains/5/18737845/cee1eab643507f3b8ba28fb3e814cc78_featured_v2.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/chains/5/18737845/cee1eab643507f3b8ba28fb3e814cc78_featured_v2.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 203509790,
+      "name": "Bombay Omelette",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Manuel Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Palanpur",
+          "rating": 4,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Breslin",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "November 29, 2022",
+          "reviewTitle": "I am happy with these food...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 130,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "₹100.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 121204339,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/116/2e8dc012e458deb74196337b95081116.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/116/2e8dc012e458deb74196337b95081116.jpg"
+      ]
+    },
+    {
+      "id": 204525320,
+      "name": "Chinese Bucket",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 4,
+          "date": "November 31, 2022",
+          "reviewTitle": "Very good food...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Geraldo Dellapina",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "December 31, 2022",
+          "reviewTitle": "Excellent as a present for my kid!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these food...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3770,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 105,
+          "text": "₹105.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493551,
+      "imageUrl": "b.zmtcdn.com/data/pictures/5/20637585/d26a19eb9a008f75323c09ed12ef25a6_o2_featured_v2.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/5/20637585/d26a19eb9a008f75323c09ed12ef25a6_o2_featured_v2.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205136837,
+      "name": "Jamshedpur Biryani",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Errol Grabber",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kristofer Comi",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 131,
+          "text": "₹131.00"
+        }
+      },
+      "brandName": "Tommy Jeans",
+      "productCode": 132292785,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/c85/845ff1ccd2760d3d461bdd7dbcbd1c85.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/c85/845ff1ccd2760d3d461bdd7dbcbd1c85.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205102248,
+      "name": "Momos",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Nathaniel Luebrecht",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "Not good at all!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Surendranagar",
+          "rating": 3,
+          "date": "January 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2012-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 220,
+          "text": "₹220.00"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/0dc/8a399c921feaf51bb3ff7f2fe8f300dc.jpg?output-format=webp",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/0dc/8a399c921feaf51bb3ff7f2fe8f300dc.jpg?output-format=webp"
+      ]
+    },
+    {
+      "id": 205102326,
+      "name": "Chinese Manchurian",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Korey Stevie",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "Surendranagar",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Belgium",
+          "rating": 3,
+          "date": "Februrary 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Omar Wolfendale",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Romania",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I won't buy these food again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 330,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 147,
+          "text": "₹147.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229752,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/3e8/9f502778c62e597c87ebb65ad4de93e8.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/3e8/9f502778c62e597c87ebb65ad4de93e8.jpg"
+      ]
+    },
+    {
+      "id": 205102335,
+      "name": "Dal Makhni",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Forrest Grazian",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Rajkot",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I won't buy these slippers again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Nathanial Vensel",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Portugal",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Sammy Canet",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Palanpur",
+          "rating": 2,
+          "date": "February 21, 2022",
+          "reviewTitle": "Rating of 2 is more than enough",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 123,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 66,
+          "text": "₹66.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229761,
+      "imageUrl": "b.zmtcdn.com/data/pictures/chains/5/110425/ab0a4f9eee111997b9841a724988779d_o2_featured_v2.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/chains/5/110425/ab0a4f9eee111997b9841a724988779d_o2_featured_v2.jpg"
+      ]
+    },
+    {
+      "id": 205102350,
+      "name": "Tandoori Chicken",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Sammy Canet",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Palanpur",
+          "rating": 4,
+          "date": "February 21, 2022",
+          "reviewTitle": "Rating of 4 is more than enough",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Avery Servedio",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Valsad",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "Excellent slippers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Dick Buffman",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Ahmedabad",
+          "rating": 3,
+          "date": "February 21, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 430,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 162,
+          "text": "₹162.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229753,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/18b/ef780f77d3abca4ece3ec50070f7f18b.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/18b/ef780f77d3abca4ece3ec50070f7f18b.jpg"
+      ]
+    },
+    {
+      "id": 205241976,
+      "name": "Chinese Muglai",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Dick Buffman",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Ahmedabad",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "Best slippers...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shayne Tagoe",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Ahmedabad",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "I am very happy",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lucius Popple",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Ahmedabad",
+          "rating": 2,
+          "date": "February 21, 2022",
+          "reviewTitle": "Not good at all",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 530,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 64.99,
+          "text": "₹64.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 132515710,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/907/f2a376dbd5c29c50b3a4d3f96cba9907.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/907/f2a376dbd5c29c50b3a4d3f96cba9907.jpg",
+        "images.asos-media.com/products/crocs-echo-clogs-in-black/205241976-2",
+        "images.asos-media.com/products/crocs-echo-clogs-in-black/205241976-3",
+        "images.asos-media.com/products/crocs-echo-clogs-in-black/205241976-4"
+      ]
+    },
+    {
+      "id": 205242096,
+      "name": "Chole Bhature",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Lucius Popple",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Ahmedabad",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "Excellent slippers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Cyrus Kosiak",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Surendranagar",
+          "rating": 4,
+          "date": "February 21, 2022",
+          "reviewTitle": "The best slippers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Whitney Freely",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Palanpur",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "I would give 10 if I can!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 1230,
+      "productionDate": "2012-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 64.99,
+          "text": "₹64.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 132515711,
+      "imageUrl": "b.zmtcdn.com/data/pictures/chains/8/110038/45d727919146c7d011ed387b90f41c24_o2_featured_v2.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/chains/8/110038/45d727919146c7d011ed387b90f41c24_o2_featured_v2.jpg"
+      ]
+    },
+    {
+      "id": 205242243,
+      "name": "Vadapau",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Alphonso Arnon",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Palanpur",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "I would give 10 if I can!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Jonathon Melker",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Palanpur",
+          "rating": 4,
+          "date": "February 21, 2022",
+          "reviewTitle": "Very good slippers!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ollie Keat",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Brazil",
+          "rating": 5,
+          "date": "February 21, 2022",
+          "reviewTitle": "I would give 100 if I can!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12230,
+      "productionDate": "2013-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 54.99,
+          "text": "₹54.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 132515713,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/972/e44cc8b615e93f6fb90a61275787b972.jpeg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/972/e44cc8b615e93f6fb90a61275787b972.jpeg"
+      ]
+    },
+    {
+      "id": 205242280,
+      "name": "Paneer Manchurian",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Ollie Keat",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Brazil",
+          "rating": 1,
+          "date": "February 21, 2022",
+          "reviewTitle": "I would give -1 if I can!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Clint Hirn",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Brazil",
+          "rating": 1,
+          "date": "February 21, 2022",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Nicholas Koehling",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Rajkot",
+          "rating": 3,
+          "date": "February 21, 2022",
+          "reviewTitle": "Good but not perfect...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 8830,
+      "productionDate": "2017-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 44.99,
+          "text": "₹44.99"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/501/6ab5473de72a075e0016b64a99055501.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/501/6ab5473de72a075e0016b64a99055501.jpg",
+        "images.asos-media.com/products/crocs-classic-clogs-in-sunflower-yellow/205242280-2",
+        "images.asos-media.com/products/crocs-classic-clogs-in-sunflower-yellow/205242280-3",
+        "images.asos-media.com/products/crocs-classic-clogs-in-sunflower-yellow/205242280-4"
+      ]
+    },
+    {
+      "id": 205242344,
+      "name": "Mendu Vada",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Brain Gilk",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Rajkot",
+          "rating": 3,
+          "date": "February 21, 2022",
+          "reviewTitle": "Good but not perfect...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alexis Bustin",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Brazil",
+          "rating": 4,
+          "date": "February 21, 2022",
+          "reviewTitle": "Very good quality...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Leonel Frassrand",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Hungray",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and elegant slippers...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 2130,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 64.99,
+          "text": "₹64.99"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/c28/192c309bd5b18b4ce95e44384772ec28.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/c28/192c309bd5b18b4ce95e44384772ec28.jpg"
+      ]
+    },
+    {
+      "id": 205242394,
+      "name": "Chinese Fix Thali",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Leonel Frassrand",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Hungray",
+          "rating": 5,
+          "date": "August 21, 2023",
+          "reviewTitle": "Best slippers ever!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Leonel Frassrand",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "September 21, 2023",
+          "reviewTitle": "Simple and elegant slippers...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Leonel Frassrand",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Palanpur",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good slippers...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2020-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 44.99,
+          "text": "₹44.99"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/069/80527dc9120f1a6131d59f883876d069.jpeg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/069/80527dc9120f1a6131d59f883876d069.jpeg"
+      ]
+    },
+    {
+      "id": 204295204,
+      "name": "Cheese Paratha",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Jarrett Cortney",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Palanpur",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good slippers...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Dylan Wengenroth",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Japan",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I am very happy with these slippers...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Brain Gilk",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Palanpur",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would give 10000 if I can...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 210,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 54.99,
+          "text": "₹54.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 126448548,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/a48/bc6480de8f0a612627244b9587f5fa48.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/a48/bc6480de8f0a612627244b9587f5fa48.jpg"
+      ]
+    },
+    {
+      "id": 204525052,
+      "name": "Spicy Toast",
+      "description": "Demo description",
+      "category": "non-veg",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Brain Gilk",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Palanpur",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would give 10000 if I can...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Nicholas Koehling",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Switzerland",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alexis Bustin",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Ahmedabad",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "Excellent shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3210,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 125,
+          "text": "₹125.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493552,
+      "imageUrl": "b.zmtcdn.com/data/pictures/0/19425690/c2da17e7ccff0c5001e9cedb69d96e81_o2_featured_v2.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/0/19425690/c2da17e7ccff0c5001e9cedb69d96e81_o2_featured_v2.jpg"
+      ]
+    },
+    {
+      "id": 204525358,
+      "name": "Paneer Barbeque",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Dwayne Paulose",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Ahmedabad",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alexis Bustin",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Ahmedabad",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "Excellent shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Isiah Pollin",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "I am very happy, but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 130,
+      "productionDate": "2018-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 140,
+          "text": "₹140.00"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/200/19838c8738d73a8d6f8e2b0385d10200.jpeg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/200/19838c8738d73a8d6f8e2b0385d10200.jpeg"
+      ]
+    },
+    {
+      "id": 205476872,
+      "name": "Spicy Puff",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Wesley Rothan",
+          "userImage": "/src/assets/user profile photo 11 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good food, good life",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Eliseo Lerg",
+          "userImage": "/src/assets/user profile photo 11.jpg",
+          "location": "Rajkot",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Isiah Pollin",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Nepal",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "I am very happy, but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3550,
+      "productionDate": "2015-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 47.9,
+          "text": "₹47.90"
+        }
+      },
+      "brandName": "Bershka",
+      "productCode": 133073331,
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/0bb/5f5b4d903a32a594dcf401fa754ed0bb.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/0bb/5f5b4d903a32a594dcf401fa754ed0bb.jpg"
+      ]
+    },
+    {
+      "id": 203776778,
+      "name": "Mexican Frankie",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Arnoldo Brumett",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Rajkot",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "I am very happy, but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Surendranagar",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "Excellent food!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Arnoldo Brumett",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Ireland",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and elegant",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 90000,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 56,
+          "text": "₹56.00"
+        }
+      },
+      "imageUrl": "b.zmtcdn.com/data/dish_photos/1ba/71ce9be8de1b9127b6c8451f463fd1ba.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/dish_photos/1ba/71ce9be8de1b9127b6c8451f463fd1ba.jpg"
+      ]
+    },
+    {
+      "id": 204295203,
+      "name": "Cheesy Pizza",
+      "description": "Demo description",
+      "category": "veg",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Arnoldo Brumett",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Palanpur",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "These slippers are sooo goood!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ernesto Pollis",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Italy",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Quinn Kokoska",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Ahmedabad",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 1230,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 54.99,
+          "text": "₹54.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 126448540,
+      "imageUrl": "b.zmtcdn.com/data/pictures/chains/7/110317/8ca03d4336cbd41d0f04042c72f263ff_o2_featured_v2.jpg",
+      "additionalImageUrls": [
+        "b.zmtcdn.com/data/pictures/chains/7/110317/8ca03d4336cbd41d0f04042c72f263ff_o2_featured_v2.jpg"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": "9H7fEBqoI4jZXfMhCQuCC",
+      "name": "Hello",
+      "lastname": "There",
+      "email": "admin@gmail.com",
+      "phone": "7435829303",
+      "address": "Hello",
+      "password": "password",
+      "userWishlist": []
+    },
+    {
+      "id": "V16BZXg5eD96nBK0C1Bs_",
+      "name": "HELLO",
+      "lastname": "THERE",
+      "email": "piyushpjani@gmail.com",
+      "phone": "9876543210",
+      "address": "abc xyz",
+      "password": "hellothere",
+      "userWishlist": []
+    }
+  ],
+  "orders": [
+    {
+      "userId": "UIJrEcYfkKo3wKOni2t9Q",
+      "orderStatus": "in progress",
+      "subtotal": 306.99,
+      "cartItems": [
+        {
+          "id": "204453531S",
+          "title": "AAPE By A Bathing Ape baseball t-shirt in black",
+          "image": "images.asos-media.com/products/aape-by-a-bathing-ape-baseball-t-shirt-in-black/204453531-1-black",
+          "rating": 4,
+          "price": 69,
+          "brandName": "AAPE BY A BATHING APE®",
+          "amount": 3,
+          "selectedSize": "S",
+          "isInWishList": false
+        },
+        {
+          "id": "205002072L",
+          "title": "ASOS DESIGN heeled chelsea boots in snake print faux leather",
+          "image": "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+          "rating": 5,
+          "price": 99.99,
+          "brandName": "ASOS DESIGN",
+          "amount": 1,
+          "selectedSize": "L",
+          "isInWishList": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": "UIJrEcYfkKo3wKOni2t9Q",
+      "orderStatus": "in progress",
+      "subtotal": 506.96999999999997,
+      "cartItems": [
+        {
+          "id": "204453531S",
+          "title": "AAPE By A Bathing Ape baseball t-shirt in black",
+          "image": "images.asos-media.com/products/aape-by-a-bathing-ape-baseball-t-shirt-in-black/204453531-1-black",
+          "rating": 4,
+          "price": 69,
+          "brandName": "AAPE BY A BATHING APE®",
+          "amount": 3,
+          "selectedSize": "S",
+          "isInWishList": false
+        },
+        {
+          "id": "205002072L",
+          "title": "ASOS DESIGN heeled chelsea boots in snake print faux leather",
+          "image": "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+          "rating": 5,
+          "price": 99.99,
+          "brandName": "ASOS DESIGN",
+          "amount": 3,
+          "selectedSize": "L",
+          "isInWishList": false
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": "UIJrEcYfkKo3wKOni2t9Q",
+      "orderStatus": "in progress",
+      "subtotal": 324,
+      "cartItems": [
+        {
+          "id": 205002006,
+          "title": "ASOS DESIGN mule platform slippers in black",
+          "image": "images.asos-media.com/products/asos-design-mule-platform-slippers-in-black/205002006-1-black",
+          "rating": 5,
+          "price": 54,
+          "brandName": "ASOS DESIGN",
+          "amount": 1,
+          "selectedSize": 39,
+          "isInWishList": false
+        },
+        {
+          "id": 204349751,
+          "title": "Premium Dum Biryani",
+          "image": "images.asos-media.com/products/reebok-bb-4000-ii-food-in-white-with-blue-detail/204349751-1-white",
+          "rating": 3,
+          "price": 90,
+          "amount": 3,
+          "selectedSize": 37,
+          "isInWishList": false
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": "UIJrEcYfkKo3wKOni2t9Q",
+      "orderStatus": "in progress",
+      "subtotal": 84.99,
+      "cartItems": [
+        {
+          "id": 204472528,
+          "title": "ASOS DESIGN creeper loafers in white leather",
+          "image": "images.asos-media.com/products/asos-design-creeper-loafers-in-white-leather/204472528-1-white",
+          "rating": 4,
+          "price": 84.99,
+          "brandName": "ASOS DESIGN",
+          "amount": 1,
+          "selectedSize": 39,
+          "isInWishList": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": "UClll_XZPf2tgJKQMehI6",
+      "orderStatus": "in progress",
+      "subtotal": 299.96999999999997,
+      "cartItems": [
+        {
+          "id": "205002072L",
+          "title": "ASOS DESIGN heeled chelsea boots in snake print faux leather",
+          "image": "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+          "rating": 5,
+          "price": 99.99,
+          "brandName": "ASOS DESIGN",
+          "amount": 3,
+          "selectedSize": "L",
+          "isInWishList": false
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": "UIJrEcYfkKo3wKOni2t9Q",
+      "orderStatus": "in progress",
+      "subtotal": 690,
+      "cartItems": [
+        {
+          "id": "204453531M",
+          "title": "AAPE By A Bathing Ape baseball t-shirt in black",
+          "image": "images.asos-media.com/products/aape-by-a-bathing-ape-baseball-t-shirt-in-black/204453531-1-black",
+          "rating": 4,
+          "price": 69,
+          "brandName": "AAPE BY A BATHING APE®",
+          "amount": 10,
+          "selectedSize": "M",
+          "isInWishList": false
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userId": "UIJrEcYfkKo3wKOni2t9Q",
+      "orderStatus": "in progress",
+      "subtotal": 69,
+      "cartItems": [
+        {
+          "id": 204453531,
+          "title": "AAPE By A Bathing Ape baseball t-shirt in black",
+          "image": "images.asos-media.com/products/aape-by-a-bathing-ape-baseball-t-shirt-in-black/204453531-1-black",
+          "rating": 4,
+          "price": 69,
+          "brandName": "AAPE BY A BATHING APE®",
+          "amount": 1,
+          "selectedSize": "XS",
+          "isInWishList": false
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userId": "EDVYu6rC_G9SL9Z7-H9tr",
+      "orderStatus": "in progress",
+      "subtotal": 69,
+      "cartItems": [
+        {
+          "id": 204453531,
+          "title": "AAPE By A Bathing Ape baseball t-shirt in black",
+          "image": "images.asos-media.com/products/aape-by-a-bathing-ape-baseball-t-shirt-in-black/204453531-1-black",
+          "rating": 4,
+          "price": 69,
+          "brandName": "AAPE BY A BATHING APE®",
+          "amount": 1,
+          "selectedSize": "XS",
+          "isInWishList": true
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userId": "EDVYu6rC_G9SL9Z7-H9tr",
+      "orderStatus": "in progress",
+      "subtotal": 84.99,
+      "cartItems": [
+        {
+          "id": 204472528,
+          "title": "ASOS DESIGN creeper loafers in white leather",
+          "image": "images.asos-media.com/products/asos-design-creeper-loafers-in-white-leather/204472528-1-white",
+          "rating": 4,
+          "price": 84.99,
+          "brandName": "ASOS DESIGN",
+          "amount": 1,
+          "selectedSize": 39,
+          "isInWishList": false
+        }
+      ],
+      "id": 9
+    },
+    {
+      "userId": "9H7fEBqoI4jZXfMhCQuCC",
+      "orderStatus": "in progress",
+      "subtotal": 90,
+      "cartItems": [
+        {
+          "id": 205117227,
+          "title": "Pav Bhaji",
+          "image": "b.zmtcdn.com/data/pictures/8/20695868/134d3be66eff906c503419ebeeda74e8_o2_featured_v2.jpg",
+          "rating": 4,
+          "price": 90,
+          "amount": 1,
+          "isInWishList": false
+        }
+      ],
+      "id": 10
+    },
+    {
+      "userId": "9H7fEBqoI4jZXfMhCQuCC",
+      "orderStatus": "in progress",
+      "subtotal": 360,
+      "cartItems": [
+        {
+          "id": 205117227,
+          "title": "Pav Bhaji",
+          "image": "b.zmtcdn.com/data/pictures/8/20695868/134d3be66eff906c503419ebeeda74e8_o2_featured_v2.jpg",
+          "rating": 4,
+          "price": 90,
+          "amount": 4,
+          "isInWishList": false
+        }
+      ],
+      "id": 11
+    },
+    {
+      "userId": "9H7fEBqoI4jZXfMhCQuCC",
+      "orderStatus": "in progress",
+      "subtotal": 88,
+      "cartItems": [
+        {
+          "id": 205107270,
+          "title": "Dum Biryani",
+          "image": "b.zmtcdn.com/data/dish_photos/020/39398c96abed08826cf3122785657020.jpg?output-format=webp",
+          "rating": 5,
+          "price": 88,
+          "brandName": "WALK LONDON",
+          "amount": 1,
+          "isInWishList": false
+        }
+      ],
+      "id": 12
+    },
+    {
+      "userId": "9H7fEBqoI4jZXfMhCQuCC",
+      "orderStatus": "in progress",
+      "subtotal": 115,
+      "cartItems": [
+        {
+          "id": 205082351,
+          "title": "Hyderabadi Biryani Combo Serves Two (400 gms)",
+          "image": "b.zmtcdn.com/data/dish_photos/e8b/9b7ac6832c4df72ef2b1393647e92e8b.jpg?output-format=webp",
+          "rating": 4,
+          "price": 115,
+          "brandName": "WALK LONDON",
+          "amount": 1,
+          "isInWishList": false
+        }
+      ],
+      "id": 13
+    },
+    {
+      "userId": "9H7fEBqoI4jZXfMhCQuCC",
+      "orderStatus": "in progress",
+      "subtotal": 259.96,
+      "cartItems": [
+        {
+          "id": 205242344,
+          "title": "Mendu Vada",
+          "image": "b.zmtcdn.com/data/dish_photos/c28/192c309bd5b18b4ce95e44384772ec28.jpg",
+          "rating": 3,
+          "price": 64.99,
+          "amount": 4,
+          "isInWishList": false
+        }
+      ],
+      "id": 14
+    },
+    {
+      "userId": "V16BZXg5eD96nBK0C1Bs_",
+      "orderStatus": "in progress",
+      "subtotal": 88,
+      "cartItems": [
+        {
+          "id": 205107270,
+          "title": "Dum Biryani",
+          "image": "b.zmtcdn.com/data/dish_photos/020/39398c96abed08826cf3122785657020.jpg?output-format=webp",
+          "rating": 5,
+          "price": 88,
+          "brandName": "WALK LONDON",
+          "amount": 1,
+          "isInWishList": false
+        }
+      ],
+      "id": 15
+    }
+  ]
+}
